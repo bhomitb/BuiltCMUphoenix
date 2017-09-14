@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:6:22-68
+application
+ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:8:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\admin\.android\build-cache\9a0cd331557700ab12af0a80b312911e45d20ade\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\admin\.android\build-cache\3ee6fd238b442dd6804e358ffcb3f8db6870aefc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\admin\.android\build-cache\6f12d0cf2b59dbbbb67ed48a4bab4344c4310071\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\admin\.android\build-cache\22e8a22457f61da395c1e4912578bd0bd6092a9f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\admin\.android\build-cache\9cda16a6fe6d99e99a897ca6871bf0bf2dc8b1bb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\admin\.android\build-cache\0b0df01f0e839f1904d01d165e39d37eef6b2117\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\admin\.android\build-cache\8b0b0a0c954abacf3b58b8f650e080cdf8ca2ab2\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\admin\.android\build-cache\708c7cc989ba8cb907c0bddc03fbd1624f817f39\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\admin\.android\build-cache\a286a102678d5fc203b88e64bfe0d15c5f5eb563\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:9:9-36
+	android:icon
+		ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:10:9-38
+activity#edu.cmu.pocketsphinx.demo.PocketSphinxActivity
+ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:13:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [pocketsphinx-android-demo:aars:unspecified] C:\Users\admin\.android\build-cache\2715fcf2ed46b7896c0b8467119ab0f24eb5dfd4\output\AndroidManifest.xml:7:5-9:41
+MERGED from [pocketsphinx-android-demo:models:unspecified] D:\Bhomit\Samples\pocketsphinx-android-demo\models\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\admin\.android\build-cache\9a0cd331557700ab12af0a80b312911e45d20ade\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\admin\.android\build-cache\3ee6fd238b442dd6804e358ffcb3f8db6870aefc\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\admin\.android\build-cache\6f12d0cf2b59dbbbb67ed48a4bab4344c4310071\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\admin\.android\build-cache\22e8a22457f61da395c1e4912578bd0bd6092a9f\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\admin\.android\build-cache\9cda16a6fe6d99e99a897ca6871bf0bf2dc8b1bb\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\admin\.android\build-cache\0b0df01f0e839f1904d01d165e39d37eef6b2117\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\admin\.android\build-cache\8b0b0a0c954abacf3b58b8f650e080cdf8ca2ab2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\admin\.android\build-cache\708c7cc989ba8cb907c0bddc03fbd1624f817f39\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\admin\.android\build-cache\a286a102678d5fc203b88e64bfe0d15c5f5eb563\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] C:\Users\admin\.android\build-cache\9a0cd331557700ab12af0a80b312911e45d20ade\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Bhomit\Samples\pocketsphinx-android-demo\app\src\main\AndroidManifest.xml

@@ -1,0 +1,7 @@
+#Thu Sep 14 18:25:19 GMT+05:30 2017
+base.0=D\:\\Bhomit\\Samples\\pocketsphinx-android-demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c1abc9a26e005350482aa1e0e7eda4933091bd76
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Bhomit\\Samples\\pocketsphinx-android-demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_483560d8b8e6a178005c63af6773f8094cacf2fb\\classes.dex
+base.1=D\:\\Bhomit\\Samples\\pocketsphinx-android-demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_483560d8b8e6a178005c63af6773f8094cacf2fb
+file.0=D\:\\Bhomit\\Samples\\pocketsphinx-android-demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c1abc9a26e005350482aa1e0e7eda4933091bd76\\classes.dex

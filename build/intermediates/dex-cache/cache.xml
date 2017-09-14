@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Bhomit\Samples\pocketsphinx-android-demo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4263a2f9bf36fa67b9f561ecdd91dc30109131d4">
+        <dex dex="D:\Bhomit\Samples\pocketsphinx-android-demo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c1abc9a26e005350482aa1e0e7eda4933091bd76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.android\build-cache\2715fcf2ed46b7896c0b8467119ab0f24eb5dfd4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6849e24d764fc75a3df80f7c1e39196c885c4f8b">
+        <dex dex="D:\Bhomit\Samples\pocketsphinx-android-demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_423bd6039127856c1209b0ba57eb41a6d30cdbbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bhomit\Samples\pocketsphinx-android-demo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Bhomit\Samples\pocketsphinx-android-demo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_483560d8b8e6a178005c63af6773f8094cacf2fb\classes.dex" />
+    </item>
+
+</items>
